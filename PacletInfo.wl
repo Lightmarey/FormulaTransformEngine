@@ -2,8 +2,8 @@ PacletObject[
   <|
     "Name" -> "FormulaTransformEngine",
     "Description" -> "Deterministic formula transformations for analysis expressions",
-    "Creator" -> "Math Copilot Team",
-    "Version" -> "0.2.1",
+    "Creator" -> "Lightmarey",
+    "Version" -> "0.1.0",
     "WolframVersion" -> "13.0+",
     "License" -> "BSL-1.1",
     "Extensions" -> {
